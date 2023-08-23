@@ -23,7 +23,9 @@ Editor de .MD  (readme.so)
 |(W) + (.) | Insere Emogions |
 
 
-(*)comandos GIT
+## comandos GIT
+| Atalho | Descrição |
+|--------|-----------|
 git init • inicializa repositório
 git clone • clona um repositório
 git status • verifica se alguma mudança foi feita no brach atual
