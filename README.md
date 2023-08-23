@@ -27,9 +27,9 @@ Editor de .MD  (readme.so)
 git init • inicializa repositório
 git clone • clona um repositório
 git status • verifica se alguma mudança foi feita no brach atual
-git add • adiciona arquivos ao versionamento
-git add . • com o (.) adiciona toda a pasta.
-git commit -a -m "inserir comentario" • salva as alterações de codigo
+git add • adiciona arquivos, para area de preparação.
+git add . • com o (.) adiciona toda a pasta, para area de preparação.
+git commit -a -m "inserir comentario" • Enviar area de preparação para Commit.
 git reset • volta o codigo a algum ponto especifico
 git checkout • descarta mudanças em algum arquivo especifico
 git brach • listagem de branches
