@@ -26,8 +26,8 @@ Editor de .MD  (readme.so)
 ## comandos GIT
 | Atalho | Descrição |
 |--------|-----------|
-git init • inicializa repositório
-git clone • clona um repositório
+| git init | inicializa repositório |
+| git clone | clona um repositório |
 git status • verifica se alguma mudança foi feita no brach atual
 git add • adiciona arquivos, para area de preparação.
 git add . • com o (.) adiciona toda a pasta, para area de preparação.
