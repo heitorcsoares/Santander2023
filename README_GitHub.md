@@ -38,8 +38,22 @@ git pull • recebe atualizações do repo remoto
 git push • envia atualizações para o repo remoto
 git fetch • recebe branches remotos que nao estão mapeados
 git log • Apresenta ultimo commit
+q • sair do (git log)
 git remote show origin • saber qual repositorio estamos
 
+## DESFAZER 
+git restore <arquivo> • restaura arquivo editado com o status do Git.
+git commit --amend -m"comentario" • Substitui comentario do Commit.
+git reset --soft <rest do commit que vai retornar> • reseta commit anteriores.
+git reset --mixed <rest do commit que vai retornar> • adciona arquivos do commit anteriar a area de preparação.
+git reset --hard <rest do commit que vai retornar> • apaga tudo até o commit informado.
+git reset <Arquivo> • Remove arquivo da area de preparação.
+
+
+
+
+
+clear • limpa tela
 
 
 touch README.mbd • criar arquivo de texto
