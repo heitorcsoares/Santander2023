@@ -23,7 +23,9 @@ Editor de .MD  (readme.so)
 |(W) + (.) | Insere Emogions |
 
 
-(*)comandos GIT
+## comandos GIT
+| Atalho | Descrição |
+|--------|-----------|
 git init • inicializa repositório
 git clone • clona um repositório
 git status • verifica se alguma mudança foi feita no brach atual
@@ -50,10 +52,7 @@ git reset --hard <rest do commit que vai retornar> • apaga tudo até o commit 
 git reset <Arquivo> • Remove arquivo da area de preparação.
 
 
-
-
-
 clear • limpa tela
-
+. • abre o editor online
 
 touch README.mbd • criar arquivo de texto
