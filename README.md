@@ -28,6 +28,7 @@ git init • inicializa repositório
 git clone • clona um repositório
 git status • verifica se alguma mudança foi feita no brach atual
 git add • adiciona arquivos ao versionamento
+git add . • com o (.) adiciona toda a pasta.
 git commit -a -m "inserir comentario" • salva as alterações de codigo
 git reset • volta o codigo a algum ponto especifico
 git checkout • descarta mudanças em algum arquivo especifico
@@ -38,6 +39,7 @@ git push • envia atualizações para o repo remoto
 git fetch • recebe branches remotos que nao estão mapeados
 git log • Apresenta ultimo commit
 git remote show origin • saber qual repositorio estamos
+
 
 
 touch README.mbd • criar arquivo de texto
